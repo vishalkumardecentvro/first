@@ -3,3 +3,7 @@ i know
 c++
 c
 python
+
+i also know
+hindi
+english
